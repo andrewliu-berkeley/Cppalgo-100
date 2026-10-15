@@ -135,7 +135,32 @@ $$
 S(n) = 1 + x + \frac{x^3}{3!} + \frac{x^5}{5!} + \cdots + \frac{x^{2n+1}}{(2n+1)!}
 $$
 
+## Section 2
+
 #### Exercise 20
-List all positive divisors of a positive integer n.
-Liệt kê tất cả ước số của số nguyên dương n.
+List all positive divisors of a positive integer `n`. <br>
+Liệt kê tất cả ước số của số nguyên dương `n`.
+
+#### Exercise 21
+Calculate the sum of all divisors of a positive integer `n`. <br>
+Tính tổng tất cả các ước số của số nguyên dương `n`.
+
+#### Exercise 22
+Calculate the product of all divisors of a positive integer `n`. <br>
+Tính tích tất cả các ước số của số nguyên dương `n`.
+
+#### Exercise 23
+Count the number of divisors of a positive integer `n`. <br>
+Đếm số lượng ước số của số nguyên dương `n`.
+
+#### Exercise 24
+List all odd divisors of a positive integer `n`. <br>
+Liệt kê tất cả các ước số lẻ củɑ số nɡuyên dươnɡ `n`.
+
+#### Exercise 25
+Calculate the sum of all even divisors of a positive integer `n`. <br>
+Tính tổnɡ tất cả các ước số chẵn củɑ số nɡuyên dươnɡ `n`.
+
+
+
 
